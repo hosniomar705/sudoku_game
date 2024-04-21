@@ -1,0 +1,3 @@
+D:/embedded/C_codes/soduko/cmake-build-debug/CMakeFiles/soduko.dir
+D:/embedded/C_codes/soduko/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/embedded/C_codes/soduko/cmake-build-debug/CMakeFiles/rebuild_cache.dir
